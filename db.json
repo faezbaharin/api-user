@@ -1,11 +1,6 @@
 {
   "data": [
     {
-      "id": 1,
-      "role": 1,
-      "name": "hello",
-      "mobile": "0123",
-      "country_code": "+6",
 	    "email": "faez@gmail.com",
 	    "password": "password"
     }
